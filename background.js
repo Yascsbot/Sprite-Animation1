@@ -7,9 +7,9 @@ class Background {
         this.dy = y;
         this.dw = 40;
         this.dh = 40;
-        this.sx=253;    // top left position of the 'image' we want to draw
-        this.sy=105;
-        this.sw = 48;
+        this.sx=254;    // top left position of the 'image' we want to draw
+        this.sy=103;
+        this.sw = 42;
         this.sh=48;
 
           // Define the number of tiles to cover the canvas
